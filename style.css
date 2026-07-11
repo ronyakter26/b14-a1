@@ -306,7 +306,7 @@ footer{
 
 .social-icons{
     display: flex;
-    gap: 25px;
+    gap: 10px;
 }
 .social-icons a{
     color: #000;
